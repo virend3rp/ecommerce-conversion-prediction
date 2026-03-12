@@ -1,0 +1,29 @@
+{
+  "features": [
+    "Administrative",
+    "Administrative_Duration",
+    "Informational",
+    "Informational_Duration",
+    "ProductRelated",
+    "ProductRelated_Duration",
+    "BounceRates",
+    "ExitRates",
+    "PageValues",
+    "SpecialDay",
+    "OperatingSystems",
+    "Browser",
+    "Region",
+    "TrafficType",
+    "Weekend",
+    "session_engagement_score",
+    "product_time_ratio",
+    "total_pages",
+    "avg_product_page_time",
+    "bounce_exit_score",
+    "month_num",
+    "visitor_type_enc"
+  ],
+  "best_threshold": 0.6500000000000001,
+  "xgb_auc": 0.9257632322054847,
+  "lr_auc": 0.8672646742571174
+}
