@@ -1,5 +1,7 @@
 # E-commerce Conversion Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ecommerce-conversion-prediction-pqmkfmtmxhgwzssuv4urmt.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4-f7931e?logo=scikit-learn)
@@ -98,6 +100,8 @@ Execute in this order:
 ```bash
 streamlit run app/app.py
 ```
+
+Or use the **live deployed app**: https://ecommerce-conversion-prediction-pqmkfmtmxhgwzssuv4urmt.streamlit.app/
 
 ---
 
