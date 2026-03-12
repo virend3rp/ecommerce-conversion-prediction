@@ -19,10 +19,11 @@ build/
 # Data — raw stays, processed can be regenerated
 data/processed/*.csv
 
-# Models (large binaries — regenerate from notebooks)
-*.pkl
+# Models — exclude large ones but keep app model
 *.joblib
 *.model
+# Allow app/model/*.pkl for deployment
+!app/model/*.pkl
 
 # Environment
 .env
